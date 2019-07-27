@@ -11,3 +11,13 @@ I discovered two command line flags through [this superuser thread](https://supe
 
 * `--high-dpi-support=1`, which I assume enables the high dpi support in chrome ... ?
 * `--force-device-scale-factor=X`, where you can replace `X` with the scaling factor.  The default scaling factor is `1.0`, I've found that `1.25` works well for me.
+
+## Intellij IDEA
+
+I'm trying to get more used to IDEs in general, and decided to start with IntelliJ IDEA.  Getting used to the IDE is made substantially easier when I can actaully read the text ;-) .  There are a number of different font settings to tweak here:
+
+* `Settings > Editor > Font`
+* `Settings > Editor > Color Scheme > Console Font`
+* `Settings > Appearance & Behavior > Appearance > Use Custom Font (Size)`
+
+Note that some of these may be changed by default when you change the others.  I've found that 16 point font is about right for me.
