@@ -1,5 +1,8 @@
 # Laptop Font Scaling
 
+* TOC
+{:toc}
+
 My personal projects laptop is a thinkpad X1 Carbon from 2017.  It has a 14" display with a 1080P resolution.  The down-side to this is that all of the fonts are a bit too small by default in XFCE (which is my preferred window manager).  This page tracks various tips and tricks that I've found to scale up the fonts to something more readable.
 
 ## Chrome
