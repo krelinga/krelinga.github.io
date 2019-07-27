@@ -21,3 +21,12 @@ I'm trying to get more used to IDEs in general, and decided to start with Intell
 * `Settings > Appearance & Behavior > Appearance > Use Custom Font (Size)`
 
 Note that some of these may be changed by default when you change the others.  I've found that 16 point font is about right for me.
+
+## XFCE Theme
+
+XFCE provides an alternative theme to help make the border directions around various windows a bit larger.  There are two such themes right now:
+
+* `Default-hidpi`: a smaller increase in size.
+* `Default-xhidpi`: a larger increase in size.
+
+These themes can be selected in the `Window Manager` settings application.
