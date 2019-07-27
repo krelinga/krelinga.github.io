@@ -30,3 +30,7 @@ XFCE provides an alternative theme to help make the border directions around var
 * `Default-xhidpi`: a larger increase in size.
 
 These themes can be selected in the `Window Manager` settings application.
+
+## XFCE Appearance
+
+There are also settings for the default (monospace & not) font sizes for XFCE in the `Appearance` settings application.  I found that 12 point font works well for me.
