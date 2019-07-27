@@ -24,7 +24,7 @@ Note that some of these may be changed by default when you change the others.  I
 
 ## XFCE Theme
 
-XFCE provides an alternative theme to help make the border directions around various windows a bit larger.  There are two such themes right now:
+XFCE provides an alternative theme to help make the border decorations around various windows a bit larger.  There are two such themes right now:
 
 * `Default-hidpi`: a smaller increase in size.
 * `Default-xhidpi`: a larger increase in size.
