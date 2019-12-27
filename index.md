@@ -1,1 +1,2 @@
 - [Laptop Font Scaling]({{site.baseurl}}{% link laptop_font_scaling.md %})
+- [Reset Toner Page Count]({{site.baseurl}}{% link reset_toner_page_count.md %})
