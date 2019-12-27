@@ -14,7 +14,7 @@ I discovered two command line flags through [this superuser thread](https://supe
 
 ## Intellij IDEA
 
-I'm trying to get more used to IDEs in general, and decided to start with IntelliJ IDEA.  Getting used to the IDE is made substantially easier when I can actaully read the text ;-) .  There are a number of different font settings to tweak here:
+I'm trying to get more used to IDEs in general, and decided to start with IntelliJ IDEA.  Getting used to the IDE is made substantially easier when I can actually read the text ;-) .  There are a number of different font settings to tweak here:
 
 * `Settings > Editor > Font`
 * `Settings > Editor > Color Scheme > Console Font`
