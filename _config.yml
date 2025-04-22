@@ -20,5 +20,6 @@ defaults:
       share: true
 
 title: Andy's Blog
+url: "https://krel.ing"
 name: "Andy Kreling"
 logo: "assets/images/masthead.png"
