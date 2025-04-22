@@ -12,7 +12,7 @@
 	// "forwardPorts": [],
 
 	// Use 'postCreateCommand' to run commands after the container is created.
-	"postCreateCommand": "bundle install"
+	"postCreateCommand": "bundle install && sudo apt update && sudo apt install -y inkscape"
 
 	// Configure tool-specific properties.
 	// "customizations": {},
