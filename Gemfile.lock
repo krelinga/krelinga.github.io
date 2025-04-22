@@ -304,6 +304,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  jekyll-theme-hacker
 
 BUNDLED WITH
    2.5.22
