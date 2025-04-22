@@ -19,6 +19,8 @@ defaults:
       read_time: true
       share: true
 
+permalink: "/:categories/:year/:month/:day/:title"
+
 title: Andy's Blog
 url: "https://krel.ing"
 name: "Andy Kreling"
