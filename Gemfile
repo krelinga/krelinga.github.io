@@ -1,4 +1,5 @@
 source 'https://rubygems.org'
 
 gem 'github-pages'
-gem 'jekyll-theme-hacker'
+gem 'minimal-mistakes-jekyll'
+gem 'jekyll-include-cache'
