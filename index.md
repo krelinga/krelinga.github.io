@@ -2,6 +2,7 @@
 layout: home
 author: Andy Kreling
 author_profile: true
+title: ""
 ---
 
 ## Lists
