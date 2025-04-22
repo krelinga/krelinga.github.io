@@ -9,3 +9,5 @@ defaults:
       path: ""
     values:
       layout: "default"
+
+title: Andy's Blog
