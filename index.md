@@ -4,7 +4,7 @@ author: Andy Kreling
 author_profile: true
 ---
 
-# Lists
+## Lists
 - [Books / Audiobooks](https://www.goodreads.com/)
 - [Movies / TV Shows](https://www.themoviedb.org/)
 - [Music](https://rateyourmusic.com/)
@@ -13,7 +13,7 @@ author_profile: true
 - [Video Games](https://www.grouvee.com/)
 - [Tabletop Games](https://boardgamegeek.com/)
 
-# Pages
+## Pages
 - [Laptop Font Scaling]({% link laptop_font_scaling.md %})
 - [Reset Toner Page Count]({% link reset_toner_page_count.md %})
 - [Thinkpad Thunderbolt 3 Dock Kills The Network]({% link thunderbolt_dock_kills_network.md %})
