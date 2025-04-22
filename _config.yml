@@ -4,8 +4,7 @@ plugins:
   - jekyll-include-cache
 
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
     values:
       layout: "default"
